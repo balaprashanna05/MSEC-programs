@@ -1,0 +1,1 @@
+print((((input("enter mark1:")+input("enter mark2:"))/2)*0.5)+((input("enter sports mark:"))*0.2)+(((input("enter activity mark 1:")+input("enter activity mark 2:")+input("enter activity mark 3:"))/3)*0.3))
